@@ -1,0 +1,53 @@
+.header .container {
+    padding-top: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 76px;
+    height: 20px;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #262626;
+}
+
+
+
+.nav {
+    display: none;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    background-color: #FFF4DF;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.avatarIcon {
+    color: #F6B83D;
+}
+
+.burger {
+    border: none;
+    background-color: #FFFFFF;
+
+}
+
+.burgerIcon {
+    width: 32px;
+    height: 32px;
+}
+
+.actions {
+    display: flex;
+    gap: 12px;
+}
